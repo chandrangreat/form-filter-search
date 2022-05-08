@@ -1,0 +1,8 @@
+.scrollable {
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.custom-dropdown-width {
+  width: 250px;
+}
